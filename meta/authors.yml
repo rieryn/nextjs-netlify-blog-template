@@ -1,1 +1,4 @@
-authors: []
+authors:
+  - slug: kagunya
+    name: kagunya
+    introduction: test
